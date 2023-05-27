@@ -2,10 +2,7 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Jesus Chock.<br>
-      
-    </i><br>
+ 
     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
